@@ -1,0 +1,3 @@
+pytroch-2.0.1+cu118
+transformer-4.29.2
+sentencepiece-0.1.99
